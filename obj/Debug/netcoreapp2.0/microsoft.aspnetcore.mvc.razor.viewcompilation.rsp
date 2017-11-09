@@ -1,0 +1,12 @@
+C:\Sumit\dotnetcore\demo
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=demo
+--content-root=C:\Sumit\dotnetcore\demo
+--file=C:\Sumit\dotnetcore\demo\Pages\About.cshtml
+--file=C:\Sumit\dotnetcore\demo\Pages\Contact.cshtml
+--file=C:\Sumit\dotnetcore\demo\Pages\Error.cshtml
+--file=C:\Sumit\dotnetcore\demo\Pages\Index.cshtml
+--file=C:\Sumit\dotnetcore\demo\Pages\_Layout.cshtml
+--file=C:\Sumit\dotnetcore\demo\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Sumit\dotnetcore\demo\Pages\_ViewImports.cshtml
+--file=C:\Sumit\dotnetcore\demo\Pages\_ViewStart.cshtml
