@@ -8,3 +8,4 @@ C:\Sumit\dotnetcore\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfoInputs.cache
 C:\Sumit\dotnetcore\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfo.cs
 C:\Sumit\dotnetcore\demo\obj\Debug\netcoreapp2.0\demo.dll
 C:\Sumit\dotnetcore\demo\obj\Debug\netcoreapp2.0\demo.pdb
+C:\Sumit\dotnetcore\demo\obj\Debug\netcoreapp2.0\demo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Sumit\dotnetcore\demo\bin\release\netcoreapp2.0\demo.deps.json
+C:\Sumit\dotnetcore\demo\bin\release\netcoreapp2.0\demo.runtimeconfig.json
+C:\Sumit\dotnetcore\demo\bin\release\netcoreapp2.0\demo.runtimeconfig.dev.json
+C:\Sumit\dotnetcore\demo\bin\release\netcoreapp2.0\demo.dll
+C:\Sumit\dotnetcore\demo\bin\release\netcoreapp2.0\demo.pdb
+C:\Sumit\dotnetcore\demo\obj\release\netcoreapp2.0\demo.csproj.CoreCompileInputs.cache
+C:\Sumit\dotnetcore\demo\obj\release\netcoreapp2.0\demo.AssemblyInfoInputs.cache
+C:\Sumit\dotnetcore\demo\obj\release\netcoreapp2.0\demo.AssemblyInfo.cs
+C:\Sumit\dotnetcore\demo\obj\release\netcoreapp2.0\demo.dll
+C:\Sumit\dotnetcore\demo\obj\release\netcoreapp2.0\demo.pdb
